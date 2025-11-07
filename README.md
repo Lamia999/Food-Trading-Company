@@ -34,3 +34,16 @@
 - المحاسبة (Accounting)
 - المبيعات (Sales)
 - نقاط البيع (Point Of Sale)
+
+
+المتطلبات الفنية
+
+إصدار: Version 18 Enterprise Edition 
+
+قاعدة البيانات: PostgreSQL
+
+لغة التطوير: Python (Odoo Framework)
+
+الواجهة الأمامية: XML, JavaScript, HTML, CSS
+
+بيئة التشغيل: Linux Server
